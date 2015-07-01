@@ -1,25 +1,84 @@
-This is free and unencumbered software released into the public domain.
+Paradigm Mentors' generic SOURCE CODE LICENCE, VERSION 0.0.0    2015-07-01 Canada Day
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+DISCLAIMER #1
+Paradigm Mentors' videos, notes, and source code are provided without any assumed liability.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Amateur and professional programmers are 100% responsible
+for how they apply our training content to their own projects.
+
+Amateur or professional, you need to test thoroughly to avoid unpleasant and unexpected surprises.
+
+DISCLAIMER #2
+
+Paradigm Mentors often recommends products from many sources;
+we attempt to keep up to date, however, in the internet/computer world,
+change is accelerating towards light speed; it is your responsibility
+to use caution in your technology choices;
+for example, if you're old enough, you may recall "Microsoft Bob",
+the "Click of Death", et cetera.   
+
+SOURCE CODE:
+
+For ALL videos, both FREE and PAID, if there is corresponding source code,
+the corresponding source code is available at no charge to anyone.
+ (registration for SOURCE CODE via Paradigm Mentors optional)
+https://paradigmmentors.com/
+
+Most Paradigm Mentors source code will be available as code signed,
+self-extracting compressed executable files at our sibling website paradigmmentors.NET.
+
+Some source code will be placed on GitHub;
+Paradigm Mentors has no business relationship with GitHub. 
+
+// LICENCE:  Public Domain.  Authorization:  Gerry Lowry.  IANAL
+// Hope:          -- it would be nice to be acknowledged for my contributions.
+//                -- i will not lose sleep if you do not bother to acknowledge my contributions.
+//                -- worth reading:  http://blog.codinghorror.com/pick-a-license-any-license/, Jeff Atwood 
+//                -- please read DISCLAIMER #1, above
+// Buts:          -- obviously, other licences may also apply, example partial list:
+//                -- MICROSOFT PUBLIC LICENSE (Ms-PL) (ask Microsoft if you're not sure)
+//                -- PayPal https://github.com/paypal/rest-api-sdk-dotnet/blob/master/LICENSE.txt
+//                -- et alia
+// Forbidden:     -- selling *THIS* software, either in source code form
+//                   or as a compiled binary, for any purpose,
+//                   commercial or non-commercial, and by any means.
+//                   [seriously, you got it for FREE]
+// Restrictions:  -- unless otherwise or elsewhere stated, associated
+//                   materials such as related videos are not public domain.
+// Required:      -- that you leave this planet a better place than when you were born into it.
+// Permitted:     -- anyone is free to share, copy, modify, publish, use, compile,
+//                   or distribute this software, either in source code form
+//                   or as a compiled binary, for any purpose (except as Forbidden, above),
+//                   commercial or non-commercial, and by any means.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL PARADIGM MENTORS, GERRY LOWRY, OR HIS ESTATE
+(SHOULD HE EVER ACTUALLY SOMEDAY HAVE AN ESTATE),
+BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR 
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-For more information, please refer to <http://unlicense.org>
+Notes:
 
+http://choosealicense.com/ and http://choosealicense.com/licenses/ to learn about some other licences.
+
+https://g47.org/about/
+    --  g47.org, a member of the Paradigm Mentors family of websites
+    --  g47.org provides safe links for the Paradigm Mentors family of websites.
+    --  our videos generally will have associated notes and links.
+        Example:  for our PayPal series, the link is g47.org/cash.
+    --  g47.org notes and source code are 100% free.
+        Registration is not required at g47.org. 
+
+http://paradigmmentors.net/
+    --  (free) source files for Paradigm Mentors .com no fluff videos for programmers
+
+Spelling:  LICENCE, the noun, is the English spelling in 
+           Australian, British, Canadian, Indian, Irish, New Zealand, or
+           South African English that refers to a permission as well as
+           to the document recording that permission.
+           LICENSE, the noun, is the American English spelling.
+           The verb in English is spelled with an 'S':  LICENSE

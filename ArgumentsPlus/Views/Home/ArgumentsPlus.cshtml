@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "ArgumentsPlus";
+}
+<h2>ArgumentsPlus &mdash; choose single or package of 10</h2>
+<hr />
+<h3>&pound;1</h3>
+<form action="/home/argumentsplus" method="post" name="single">
+    YOUR NAME:
+    <input type="text"   name="yourname" value="" autofocus />
+    <input type="hidden" name="singleor10" value="5" />
+    <input type="submit"
+           title="one pound for a five minute argument"
+           value="start off with just ONE" />
+    <img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg"
+      border="0" 
+       title="Pay at PayPal using your PayPal account or as a PayPal guest with your credit card" />
+</form>
+<hr />
+<h3>&pound;8</h3>
+<form action="/home/argumentsplus" method="post" name="package">
+    YOUR NAME:
+    <input type="text" name="yourname" value="" />
+    <input type="hidden" name="singleor10" value="50" />
+    <input type="submit"
+           title="eight pounds for a course of ten"
+           value="course of 10" />
+    <img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg"
+         border="0"
+         title="Pay at PayPal using your PayPal account or as a PayPal guest with your credit card" />
+</form>
+
+<h2>@ViewBag.SomethingWentWrongWithCurrentPurchasePreparation</h2>

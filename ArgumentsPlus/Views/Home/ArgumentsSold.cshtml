@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "ArgumentsSold";
+}
+
+<h2>ArgumentsSold</h2>
+
+Thank you for purchasing from Arguments Plus!<br />
+<br />
+Please proceed to Mr. Barnard; room 12.<br />
+<br />
+"Monty Python:&nbsp;&nbsp;<a href="http://www.youtube.com/watch?feature=player_detailpage&v=RDjCqjzbvJY"
+   title="monty python the argument clinic director's cut from You Tube"
+  target="youtube">The Argument Clinic</a>: Director's Cut"
+<br />
+Uploaded to You Tube, 2008&nbsp;02&nbsp;13
+&mdash;
+Rated - PG: for brief language.
+<br />
+Synopsis - A man goes to the Argument Clinic to argue with someone.
+<hr />
+
+payment_state:        &nbsp;  @ViewBag.Payment_State          <br />
+payment_intent:       &nbsp;  @ViewBag.Payment_Intent         <br />
+payment_method:       &nbsp;  @ViewBag.Payment_Method         <br />
+parent_payment:       &nbsp;  @ViewBag.Parent_Payment         <br />
+update_time:          &nbsp;  @ViewBag.Update_Time            <br />
+create_time:          &nbsp;  @ViewBag.Create_Time            <br /><br />
+
+payPal_email_address: &nbsp;  @ViewBag.PayPal_Email_Address   <br />
+payPal_first_name:    &nbsp;  @ViewBag.PayPal_First_Name      <br />
+payPal_last_name:     &nbsp;  @ViewBag.PayPal_Last_Name       <br />
+payPal_phone:         &nbsp;  @ViewBag.PayPal_Phone           <br /><br />
+
+payPal_city:          &nbsp;  @ViewBag.City                   <br />
+payPal_country_code:  &nbsp;  @ViewBag.PayPal_Country_Code    <br />
+payPal_address_line1: &nbsp;  @ViewBag.PayPal_Address_Line1   <br />
+payPal_address_line2: &nbsp;  @ViewBag.PayPal_Address_Line2   <br />
+payPal_postal_code:   &nbsp;  @ViewBag.PayPal_Postal_Code     <br />
+payPal_address_state: &nbsp;  @ViewBag.PayPal_Address_State   <br /><br />
+
+payPal_transaction_amount_total:    &nbsp; @ViewBag.PayPal_Transaction_Amount_Total     <br />
+payPal_transaction_amount_currency: &nbsp; @ViewBag.PayPal_Transaction_Amount_Currency  <br />
+payPal_transaction_descripition     &nbsp; @ViewBag.PayPal_Transaction_Description      <br /><br />
+
+<hr />
+<img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg"
+     border="0"
+     title="Pay at PayPal using your PayPal account or as a PayPal guest with your credit card" />
+
